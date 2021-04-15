@@ -3,9 +3,10 @@ import StepperComponent from "./Stepper";
 
 export default function App() {
   const steps = [
-    ["First page", "first page"],
+    ["Introduction", "first page"],
     ["Second page", "second page"],
-    ["Third page", "third page"]
+    ["Third page", "third page"],
+    ["Fourth page", "fourth page"]
   ];
   return (
     <div className="App">
